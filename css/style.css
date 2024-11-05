@@ -1,0 +1,247 @@
+section {
+    background-color: #F2F2F2;
+    width: 1440px;
+    height: 797px;
+}
+
+#card-square {
+    width: 370px;
+    height: 502px;
+    position: absolute;
+    top: 191px;
+    left: 696px;
+}
+
+#media {
+    width: 370px;
+    height: 370px;
+    background-color: black;
+}
+
+#content-square {
+    width: 370px;
+    height: 132px;
+} /* this is not working how I planned */
+
+#title-square {
+    width: 370px;
+    height: 66px;
+    top: 404px;
+    font-size: 24px;
+    line-height: 32.62px;
+}
+
+#learn-more {
+    width: 370;
+    height: 20px;
+    top: 482px;
+    font-size: 14px;
+    line-height: 19.03px;
+}
+
+#card-pricing-1 {
+    width: 270px;
+    height: 420px;
+    position: absolute;
+    top: 191px;
+    left: 378px;
+    background-color: #FFFFFF;
+    /* border-radius: 2px;
+    border: 1px;
+    border-color: black;
+    ask why the border is not popping up in the web browsers */
+}
+
+#start-now {
+    width: 160px;
+    height: 40px;
+    position: absolute;
+    top: 347px;
+    left: 55px;
+    font-size: 14px;
+    line-height: 16.41px;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+
+#icon {
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    top: 29px;
+    left: 108px;
+    background-color: black; /*how would I make it a black circle not a black square */
+}
+
+#title-pricing {
+    width: 40px;
+    height: 24px;
+    position: absolute;
+    top: 92px;
+    left: 115px;
+    font-size: 20px;
+    line-height: 23.44px;
+    align-items: center;
+}
+
+#subtitle-pricing {
+    width: 194px;
+    height: 32px;
+    position: absolute;
+    top: 120px;
+    left: 38px;
+    font-size: 14px;
+    line-height: 24px;
+    /* align-content: center; What am I missing to center the subtile since the text box width is so long? */
+}
+
+#text-pricing {
+    display: flex;
+    width: 193px;
+    height: 100px;
+    position: absolute;
+    top: 182px;
+    left: 39px;
+    /* font-color: black %50 I can not figure out how to do any font color */
+}
+
+#secondary {
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 67px;
+    left: 300px;
+    background-color: white;
+    /* Still can't figure out why adding border is not working */
+}
+
+#blog {
+    width: 270px;
+    height: 436px;
+    position: absolute;
+    top: 191px;
+    left: 60px;
+}
+
+#rectangle-3 {
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    top: 103px;
+    left: 103px;
+    border-radius: 8px;
+}
+
+#rectangle {
+    width: 270px;
+    height: 270px;
+    background-color: black;
+}
+
+#see-more {
+    width: 67px;
+    height: 20px;
+    position: absolute;
+    top: 392px;
+    left: 24px;
+    font-size: 14px;
+    line-height: 19.03px;
+}
+
+#special-feature {
+    width: 222px;
+    height: 24px;
+    position: absolute;
+    top: 294px;
+    left: 24px;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+#content {
+    background-color: #F2F2F2;
+    /* I can not figure out why when I try to add the content/background color it pushes everything down. */
+}
+
+#secondary-button {
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 67px;
+    left: 300px;
+    background-color: #FFFFFF;
+    font-size: 18px;
+    line-height: 24.26px;
+}
+
+#primary {
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 67px;
+    left: 60px;
+    background-color: black;
+}
+/* body {
+    width: 1440px;
+    height: 797px;
+    color: #F2F2F2;
+}
+#first {
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 67px;
+    left: 60px;
+}
+
+#second {
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    background-color: #F2F2F2;
+    text-align: center;
+    position: absolute;
+    top: 67px;
+    left: 300px;
+}
+
+#special-feature {
+    width: 270px;
+    height: 436px;
+    position: absolute;
+    top: 191px;
+    left: 60px;
+}
+
+#start-now-button {
+    width: 160px;
+    height: 40px;
+    position: absolute;
+    top: 497px;
+    left: 440px;
+}
+
+#start-now {
+    width: 270px;
+    height: 420px;
+    position: absolute;
+    top: 191px;
+    left: 378px;
+}
+
+#learn-more {
+    width: 370px;
+    height: 502px;
+    position: absolute;
+    top: 191px;
+    left: 696px;
+} 
+    
+
+
+
+
+I think the problem with this code was started from the HTML layout*/
